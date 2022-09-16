@@ -1,0 +1,8 @@
+
+- individual product pages
+- profile / signin / signout func
+- stripe implementation 
+
+- Make a model for: Products 
+- make a for loop for sliders for product categories
+- then in each loop make a loop for products in category
